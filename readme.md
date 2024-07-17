@@ -1,0 +1,2 @@
+[x] day-17: Class
+[x] day-18: Turtle Library
