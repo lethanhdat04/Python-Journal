@@ -1,2 +1,2 @@
-[x] day-17: Class
-[x] day-18: Turtle Library
+- [x] day-17: Class
+- [x] day-18: Turtle Library
