@@ -1,2 +1,3 @@
-[x] day-17: Class
-[x] day-18: Turtle Library
+[x] day-17: The quiz project using OOP
+[x] day-18: Turtle & The Graphical User Interface
+[x] day-19: Instance, State and Higher Order Function
