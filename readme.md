@@ -1,3 +1,4 @@
 - [x] day-17: The quiz project using OOP
 - [x] day-18: Turtle & The Graphical User Interface
 - [x] day-19: Instance, State and Higher Order Function
+- [x] day-20: Build the snake game Part 1
