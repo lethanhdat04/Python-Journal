@@ -4,3 +4,5 @@
 - [x] day-20: Build the snake game Part 1
 - [x] day-21: Build the snake game Final
 - [x] day-22: Build Pong: The Famous Arcade Game
+- [x] day-23: The Turtle Crossing Capstone Project
+- 
